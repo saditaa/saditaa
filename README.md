@@ -19,18 +19,21 @@ Here are some ideas to get you started:
 💻 Future Developer (still grinding 💀)  
 📍 Tegal, Indonesia  
 
+꒰੭ ֹ 𝗆𝗂𝖽𝗻𝗶𝗴𝗵𝘁 ۪ ݊
+𓂋 ׅ 𝖿𝗂𝖼𝗍𝗂꯭𝗈𝗇 ♡︎ິ
 
-**"better to start learning now, even if you're late, than not starting at all."**
-
+**"better to start learning now, even if you're late, than not starting at all"**
+𓆝 𓆟 𓆞 𓆝 𓆟
 
 i code better with music on 🎧  
 trying to survive coding errors 😭
 sometimes debugging = staring at screen for hours 💀
 
+【 蒙 • 橱 】─ ℳelodies of my ℋeart .
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 ###

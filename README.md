@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello! I'm Ardita ✨
 
+![Ardita](img/wave%20to%20earth%20laptop%20wallpaper🫧🌊.jpg)
 <!--
 **saditaa/saditaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🎓 Informatics Student  
+💻 Future Developer (still grinding 💀)  
+📍 Tegal, Indonesia  
+
+
+**"better to start learning now, even if you're late, than not starting at all."**
+
+
+i code better with music on 🎧  
+trying to survive coding errors 😭
+sometimes debugging = staring at screen for hours 💀
+

@@ -1,6 +1,6 @@
 ## Hello! I'm Ardita ✨
 
-![Ardita](img/wave%20to%20earth%20laptop%20wallpaper🫧🌊.jpg)
+![Ardita](img/github_readme_banner%20(1).png)
 <!--
 **saditaa/saditaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,3 +27,10 @@ i code better with music on 🎧
 trying to survive coding errors 😭
 sometimes debugging = staring at screen for hours 💀
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###

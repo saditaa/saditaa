@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-
+<table>
+<tr>
+<td>
 ꒰੭ ֹ 𝗆𝗂𝖽𝗻𝗶𝗴𝗵𝘁 ۪ ݊
 𓂋 ׅ 𝖿𝗂𝖼𝗍𝗂꯭𝗈𝗇 ♡︎ິ
 
@@ -28,6 +30,11 @@ trying to survive coding errors 😭
 sometimes debugging = staring at screen for hours 💀
 
 【 蒙 • 橱 】─ ℳelodies of my ℋeart .
+<td>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2dsMHowOWM2YXFscnM3YmVmNWg5ZXpwaWo5eGRqdmM3YXJnOXdvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ICS7zr2gW4cdVTLLtZ/giphy.gif" width="200"/>
+</td>
+</tr>
+</table>
 
 ![ardita](img/WhatsApp%20Image%202026-05-01%20at%204.17.07%20PM.jpeg)
 

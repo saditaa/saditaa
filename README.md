@@ -32,10 +32,6 @@ sometimes debugging = staring at screen for hours 💀
 ![ardita](img/WhatsApp%20Image%202026-05-01%20at%204.17.07%20PM.jpeg)
 
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31mzu5v6l62tpg65t3gjvw3sqvqu&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=true&bar_color=3b82f6&bar_color_cover=true"/>
-</p>
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
